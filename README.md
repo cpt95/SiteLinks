@@ -12,3 +12,6 @@ http://easypref.com/
 
 German app for scraping pharmacy sites and showing data
 http://monitor.drkaske.de/
+
+Custom CMS used for musical events.
+http://balkanrock.com/
